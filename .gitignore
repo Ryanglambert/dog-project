@@ -1,4 +1,5 @@
 .DS_Store
+.dog-project
 dogImages/
 lfw/
 saved_models/weights.best.from_scratch.hdf5
